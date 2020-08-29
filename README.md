@@ -1,4 +1,3 @@
 # KeksFabrik
 
-test
-This site was built using [GitHub Pages](https://pages.github.com/).
+Direktlink zur Homepage/Projekt [GitHub Pages](https://keks-fabrik.net)
