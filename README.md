@@ -1,6 +1,6 @@
 # KeksFabrik
 
-Direktlink zur Homepage/Projekt [Keks-Fabrik](https://keks-fabrik.net)
+Direktlink zum Projekt Wiki [Keks-Fabrik](https://github.com/NoHoPeLess/KeksFabrik/wiki/Startseite)
 
 Diese Seite dient als Infoseite für dieses Projekt und als Fehlerseite.
 
